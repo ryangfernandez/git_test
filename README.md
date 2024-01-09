@@ -1,3 +1,4 @@
 # git_test
-my first GitHub repo, learning git 
+my first GitHub repo, learning git
 Hello Odin!
+
